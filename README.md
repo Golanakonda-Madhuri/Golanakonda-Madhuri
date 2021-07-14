@@ -11,3 +11,16 @@
 -   😄 Pronouns: He/His
 -   ⚡ Fun fact: I spend almost 12 hours learning about space.
 -   💬 I want to be a Full Stack </ Developer >
+
+### Github Stats :
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Golanakonda-Madhuri&show_icons=true)](https://github.com/karthik235689/github-readme-stats)
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<p href="https://github.com/Golanakonda-Madhuri/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/Golanakonda-Madhuri"></p>
+
+[website]: https://seesaws.in
+[facebook]: https://www.facebook.com/profile.php?id=100008249283592
+[instagram]: https://www.instagram.com/__.madhu/?utm_medium=copy_link
+[linkedin]: https://www.linkedin.com/in/katakam-karthik-2223171b0/
