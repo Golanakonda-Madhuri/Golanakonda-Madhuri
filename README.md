@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## SUDO, I'm Katakam Karthik 👋.
 [![Linkedin Badge](https://img.shields.io/badge/-Karthik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katakam-karthik-2223171b0/)](https://www.linkedin.com/in/katakam-karthik-2223171b0/)
-[![Instagram Badge](https://img.shields.io/badge/-Karthik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/karthik_542/)](https://instagram.com/karthik_542)
+[![Instagram Badge](https://img.shields.io/badge/-Madhuri-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__.madhu/?utm_medium=copy_link)](https://www.instagram.com/__.madhu/?utm_medium=copy_link)
 [![Gmail Badge](https://img.shields.io/badge/-golanakondamadhuri12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthik23052001@gmail.com)](mailto:karthik23052001@gmail.com)
 -   🔭 I’m currently working on [Seesaws](https://seesaws.in/).
 -   🌱 I’m currently learning more about BlockChain.
