@@ -11,4 +11,3 @@
 -   😄 Pronouns: He/His
 -   ⚡ Fun fact: I spend almost 12 hours learning about space.
 -   💬 I want to be a Full Stack </ Developer >
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
